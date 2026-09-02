@@ -14,8 +14,6 @@
 
 ---
 
-### 🐍 提交贪吃蛇
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/xuan-ed/xuan-ed/output/github-contribution-grid-snake.svg" alt="snake" width="90%" />
 </p>
